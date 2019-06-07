@@ -10,7 +10,7 @@ As, we know that magento 2 supports a wide variety of payment method including--
 <li>Amazon pay</li>
 <li>Card payment</li>
 <li>Braintree payment solution</li>
-<li><br /></li>
+<li>Cheque and Money Order</li>
 </ul>
 If you wish to add any other offline payment method along with these existing one then you are at right place.<br />
 <br />
