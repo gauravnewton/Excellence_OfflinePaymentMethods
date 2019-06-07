@@ -22,7 +22,7 @@ xsi:noNamespaceSchemaLocation="urn:magento:framework:View/Layout/etc/page_config
 																	Excellence_OfflinePaymentMethods/js/view/payment/offline-payment
 																</item>
 																	<item name="methods" xsi:type="array">
-																	<item name="invoice30" xsi:type="array">
+																	<item name="custompayment" xsi:type="array">
 																		<item name="isBillingAddressRequired" xsi:type="boolean">true</item>
 																	</item>
 																</item>

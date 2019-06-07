@@ -7,7 +7,7 @@ xsi:noNamespaceSchemaLocation="urn:magento:module:Magento_Payment:etc/payment.xs
 		</group>
 	</groups>
 	<methods>
-		<method name="invoice30">
+		<method name="custompayment">
 		<allow_multiple_address>1</allow_multiple_address>
 		</method>
 	</methods>

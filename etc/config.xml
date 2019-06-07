@@ -3,14 +3,14 @@
 xsi:noNamespaceSchemaLocation="urn:magento:module:Magento_Store:etc/config.xsd">
 	<default>
 		<payment>
-			<invoice30>
+			<custompayment>
 				<active>1</active>
-				<model>Excellence\OfflinePaymentMethods\Model\Invoice30</model>
+				<model>Excellence\OfflinePaymentMethods\Model\CustomPayment</model>
 				<order_status>pending</order_status>
-				<title>Offline Payment Method 1</title>
+				<title>Excellence Custom Payment Method</title>
 				<allowspecific>0</allowspecific>
 				<group>offline</group>
-			</invoice30>
+			</custompayment>
 		</payment>
 	</default>
 </config>

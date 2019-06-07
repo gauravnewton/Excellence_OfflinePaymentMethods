@@ -3,8 +3,8 @@
 xsi:noNamespaceSchemaLocation="urn:magento:module:Magento_Config:etc/system_file.xsd">
 	<system>
 		<section id="payment" translate="label" type="text" sortOrder="400" showInDefault="1" showInWebsite="1" showInStore="1">
-			<group id="invoice30" translate="label" type="text" sortOrder="101" showInDefault="1" showInWebsite="1" showInStore="1">
-				<label>Invoice 30</label>
+			<group id="custompayment" translate="label" type="text" sortOrder="101" showInDefault="1" showInWebsite="1" showInStore="1">
+				<label>Custom Payment</label>
 
 				<field id="active" translate="label" type="select" sortOrder="1" showInDefault="1" showInWebsite="1" showInStore="0" canRestore="1">
 					<label>Enabled</label>
@@ -44,7 +44,7 @@ xsi:noNamespaceSchemaLocation="urn:magento:module:Magento_Config:etc/system_file
 				</field>
 
 				<field id="model"></field>
-				
+
 			</group>
 		</section>
 	</system>

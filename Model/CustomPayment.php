@@ -1,8 +1,8 @@
 <?php
 namespace Excellence\OfflinePaymentMethods\Model;
-class Invoice30 extends \Magento\Payment\Model\Method\AbstractMethod
+class CustomPayment extends \Magento\Payment\Model\Method\AbstractMethod
 {
-	const PAYMENT_METHOD_CUSTOM_INVOICE_CODE = 'invoice30';
+	const PAYMENT_METHOD_CUSTOM_INVOICE_CODE = 'custompayment';
 	/**
 	* Payment method code
 	*

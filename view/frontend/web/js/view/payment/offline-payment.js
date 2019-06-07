@@ -9,8 +9,8 @@ define(
 		) {
 			'use strict';
 			rendererList.push({
-			type: 'invoice30',
-			component: 'Excellence_OfflinePaymentMethods/js/view/payment/method-renderer/invoice30-method'
+			type: 'custompayment',
+			component: 'Excellence_OfflinePaymentMethods/js/view/payment/method-renderer/custompayment-method'
 		});
 	/** Add view logic here if needed */
 	return Component.extend({});
