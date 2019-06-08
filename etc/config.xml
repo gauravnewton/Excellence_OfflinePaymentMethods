@@ -7,7 +7,7 @@ xsi:noNamespaceSchemaLocation="urn:magento:module:Magento_Store:etc/config.xsd">
 				<active>1</active>
 				<model>Excellence\OfflinePaymentMethods\Model\CustomPayment</model>
 				<order_status>pending</order_status>
-				<title>Excellence Custom Payment Method</title>
+				<title>Excellence Custom Offline Payment Method</title>
 				<allowspecific>0</allowspecific>
 				<group>offline</group>
 			</custompayment>
