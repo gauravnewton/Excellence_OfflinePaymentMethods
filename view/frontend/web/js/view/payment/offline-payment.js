@@ -12,7 +12,7 @@ define(
 			type: 'custompayment',
 			component: 'Excellence_OfflinePaymentMethods/js/view/payment/method-renderer/custompayment-method'
 		});
-	/** Add view logic here if needed */
-	return Component.extend({});
+		/** Add view logic here if needed */
+		return Component.extend({});
 	}
 );

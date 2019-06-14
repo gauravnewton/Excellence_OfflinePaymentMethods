@@ -43,6 +43,11 @@ xsi:noNamespaceSchemaLocation="urn:magento:module:Magento_Config:etc/system_file
 					<label>Maximum Order Total</label>
 				</field>
 
+
+				<field id="email_domain" translate="label" type="text" sortOrder="110" showInDefault="1" showInWebsite="1" showInStore="0">
+					<label>Email Domain</label>
+				</field>
+
 				<field id="model"></field>
 
 			</group>
